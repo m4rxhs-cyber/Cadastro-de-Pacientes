@@ -24,8 +24,12 @@
 ### Primeiramente eu criei a parte do front-end somente com HTML, CSS e JavaScript, para depois passar tudo para o Vue JS. Como eu não tinha conhecimento sobre tal assunto, fui estudar. No teste pedia para salvar os dados em um banco de dados e criar uma api em Spring Boot para fazer a comunicação com o front-end, mas eu não tenho conhecimento sobre Java, então resolvi criar uma api em JSON e salvar os dados também en um arquivo JSON. O back-end do site está hospedado no heroku e o front-end você pode rodar ele em localhost ou então abrir o GitPage. O servidor que usei foi o Json-Server.   
 
 >## Como rodar a aplicação:
+#### Basta acessar o seguinte link:
+```
+https://m4rxhs-cyber.github.io/Cadastro-Pacientes-Pages/
+```
 
-### Se quiser rodar em LOCALHOST dê os sequintes comandos:
+>### Mas se quiser rodar em LOCALHOST dê os sequintes comandos:
  Abra o terminal, pode ser o do VS Code, e crie uma pasta para baixar os arquivos
  ```
  mkdir nomeDaPasta
@@ -60,7 +64,6 @@ npm run serve
 ### Pront, agora você ja pode usufrir do sistema.
 
 
->## Outra maneira de rodar a aplicação:
 #### Basta acessar o seguinte link:
 ```
 https://m4rxhs-cyber.github.io/Cadastro-Pacientes-Pages/
