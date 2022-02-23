@@ -63,8 +63,3 @@ npm run serve
 ### Ele te dará um link, um LOCALHOST e um NETWORK, copie o link do NETWORK e acesse em seu browser.
 ### Pront, agora você ja pode usufrir do sistema.
 
-
-#### Basta acessar o seguinte link:
-```
-https://m4rxhs-cyber.github.io/Cadastro-Pacientes-Pages/
-```
