@@ -61,5 +61,5 @@ npm run serve
 ```
 
 ### Ele te dará um link, um LOCALHOST e um NETWORK, copie o link do NETWORK e acesse em seu browser.
-### Pront, agora você ja pode usufrir do sistema.
+### Pronto, agora você ja pode usufrir do sistema.
 
