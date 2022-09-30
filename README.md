@@ -25,9 +25,11 @@
 
 >## Como rodar a aplicação:
 #### Basta acessar o seguinte link:
+```
 
-<a> https://m4rxhs-cyber.github.io/Cadastro-Pacientes-Pages/ </a>
-
+ https://m4rxhs-cyber.github.io/Cadastro-Pacientes-Pages/ 
+ 
+```
 
 >### Mas se quiser rodar em LOCALHOST dê os sequintes comandos:
  Abra o terminal, pode ser o do VS Code, e crie uma pasta para baixar os arquivos
